@@ -1,5 +1,9 @@
 This folder is a copy from the github repo of Pop2piano paper. We followed the same preprocessing pipeline.
 
+## Interactive Demo
+Experience the LEAP model in real-time in your browser (no installation required):
+[**Launch LEAP Studio**](https://yourusername.github.io/leap-studio/)
+
 Additionally, to download the dataset, please refer to `download.py` script, and use it as:
 ```bash
 python download.py ./train_dataset.csv output_dir/
