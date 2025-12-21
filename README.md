@@ -2,7 +2,7 @@
 
 ## Interactive Demo
 Experience the LEAP model in real-time in your browser (no installation required):
-[**Launch LEAP Studio**](https://yourusername.github.io/leap-studio/)
+[**Launch LEAP Studio**](https://emilio-pcrd.github.io/leap-studio/)
 
 
 ## Projet ML - ATIAM Music Programming
