@@ -1,0 +1,13 @@
+lmd_matched/
+
+__pycache__/
+
+training_data/
+
+.DS_Store
+
+ckpts/
+
+logs/
+
+preprocessing/
