@@ -1,8 +1,13 @@
 # creative-ml
 
+## Interactive Demo
+Experience the LEAP model in real-time in your browser (no installation required):
+[**Launch LEAP Studio**](https://yourusername.github.io/leap-studio/)
+
+
 ## Projet ML - ATIAM Music Programming
 
-This repo contains the code for the creative ml project
+This repo contains the code for the LEAP-ml project
 
 The project is described below:
 
